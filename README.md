@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Python, ML , Deep learning, RPA.<br>👯 I’m looking to collaborate on Data science in general.<br>🤝 I’m looking for help with building my career.<br>🌱 I’m currently learning UiPath Studio.<br>💬 Ask me about Python, Data, AI.<br>⚡ Fun fact
+🔭 I’m currently working on Python, ML , Deep learning, RPA.<br>👯 I’m looking to collaborate on Data science in general.<br>🤝 I’m looking for help with building my career.<br>🌱 I’m currently learning UiPath Studio.<br>💬 Ask me about Python, Data, AI.<br>
 
 
 ## 🌐 Socials:
