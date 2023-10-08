@@ -1,6 +1,8 @@
 
 #                                      <h1 align='center'> 💫 About Me:   </h1>
-🔭 I’m currently working on SQL, Python, ML , Deep learning, Big Data Engineering.<br>👯 I’m looking to collaborate on Data science in general.<br>🤝 I’m looking for help with building my career.<br>🌱 I’m currently learning Data Engineering.<br>💬 Ask me about Python, Data, AI.<br>
+ I’m currently working on SQL, Python, ML , Deep learning, Big Data Engineering, ETL :smile_cat:.<br>
+ I’m currently learning ETL Data :bar_chart:.<br>
+💬 Ask me about Python, Data, AI :wink:.<br>
 
 
 # 🌐 Socials:   
