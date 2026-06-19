@@ -37,7 +37,7 @@
 - 🏆 Won **Best Presentation (ranked #1 of 60+ teams)** for an AI computer-vision project
 - 📜 **Certified AI Consultant (CAIC™)**
 - 💬 Ask me about **ETL pipelines, Apache Airflow, Power BI, and AI**
-- 📫 How to reach me: **[LinkedIn → faisal-shahrani](https://www.linkedin.com/in/faisal-shahrani)**
+- 📫 How to reach me: **[LinkedIn → faisal-shahrani](https://www.linkedin.com/in/faisal-shahrani/)**
 
 ---
 
@@ -156,8 +156,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/faisal-shahrani">
+<a href="https://www.linkedin.com/in/faisal-shahrani/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.kaggle.com/faisalalshahrani">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
 <!-- Replace with your email address -->
 <a href="mailto:your.email@example.com">
