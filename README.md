@@ -128,26 +128,6 @@
 ---
 
 <!-- ===================== GITHUB STATS WIDGETS ===================== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats Card (anuraghazra/github-readme-stats) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<GITHUB_USERNAME>&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<!-- GitHub Streak Stats (DenverCoder1/github-readme-streak-stats) -->
-<img src="https://streak-stats.demolab.com?user=<GITHUB_USERNAME>&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<!-- GitHub Trophies (ryo-ma/github-profile-trophy) -->
-<img src="https://github-profile-trophy.vercel.app/?username=<GITHUB_USERNAME>&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
